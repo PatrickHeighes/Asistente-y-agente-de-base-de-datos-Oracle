@@ -15,3 +15,5 @@ pip install -r requirements.txt
 
 Correr el proyecto
 python main.py
+
+<img width="1280" height="589" alt="image" src="https://github.com/user-attachments/assets/52c3496c-e58e-4a25-b1d9-e534b95ed15d" />
